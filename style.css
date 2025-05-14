@@ -1,0 +1,152 @@
+body {
+    background-color: #f0f0f0;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #e7f1eb;
+}
+
+.nav {
+    position: sticky;
+    font-size: 24px;
+    font-weight: bolder;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+.nav ul li {
+    margin: 0 15px;
+    font-size: 18px;
+}
+
+button {
+    border: 2px solid;
+    border-radius: 15px;
+    padding: 10px 20px;
+
+}
+
+.Main {
+    margin: 76px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Main h1 {
+    font-size: 55px;
+    font-weight: bolder;
+}
+
+.searchbar {
+    width: 100%;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.searchbar input {
+    width: 70%;
+    height: 55px;
+    font-size: 16px;
+    font-weight: bolder;
+    border-radius: 20px;
+}
+
+.image1 {
+    float: right;
+    margin: -360px 110px 0 0;
+}
+
+.b2 {
+    margin: 20px 0 0 160px;
+    width: 250px;
+    height: 65px;
+
+}
+
+.colour {
+    background-color: #34C38F;
+}
+
+.text {
+    padding: 120px 0 0 125px;
+    max-width: 600px;
+}
+
+.text h1 {
+    font-size: 70px;
+    font-weight: bolder;
+}
+
+.sectext {
+    font-size: 20px;
+    margin: 300px 0 0 150px;
+    padding: 34px;
+    max-width: 500px;
+}
+
+.sectext h1 {
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.b3 {
+    font-size: 17px;
+    margin: 0 0 0 178px;
+    width: 250px;
+    height: 60px;
+}
+
+.image2 {
+    float: right;
+    margin: -360px 165px 0 0;
+
+}
+
+.image3 {
+    float: right;
+    margin: -360px 0 0 150px;
+
+}
+
+.sectext2 {
+    font-size: 20px;
+    margin: 300px 0 0 150px;
+    padding: 34px;
+    max-width: 500px;
+}
+
+.sectext2 h1 {
+    font-size: 50px;
+    font-weight: bolder;
+}
+.footer{
+    font-size: 45px;
+    font-weight: bolder;
+    margin: 300px 0 0 0;
+    text-align: center;
+}
+.reviewsimg{
+    margin: 20px 0 0 340px;
+    max-width: 50%;
+}
+.end{
+    text-align: center;
+    font-weight: lighter;
+    font-size: 50px;
+    margin: 150px 0 0 0;
+    color: #2D7B47;
+}
